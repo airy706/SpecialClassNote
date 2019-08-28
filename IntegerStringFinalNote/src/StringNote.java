@@ -2,6 +2,7 @@ public class StringNote {
     /*
     常量池、堆
     编译器已知的字符串放在常量池，String s="a";
+    zifu
      */
     public static void main(String[] args) {
         String a="abc";//搜索常量池有无abc,此时无abc,在常量池创建一个字符串对象abc,将地址返回给变量a
